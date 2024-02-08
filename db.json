@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "LalaSaheb Pawar",
+      "email": "lalupawar@gmail.com",
+      "city": "Kalas"
+    },
+    {
+      "id": "2",
+      "name": "AkshayKumar Pawar",
+      "email": "akshayPawar@gmail.com",
+      "city": "Kalas"
+    },
+    {
+      "id": "3",
+      "name": "Vickyraj Pawar",
+      "email": "vickyrajpawar44@gmail.com",
+      "city": "Pune"
+    }
+  ]
+}
